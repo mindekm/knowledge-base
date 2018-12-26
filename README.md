@@ -168,6 +168,8 @@
 
 [Tail Blazer](https://github.com/RolandPheasant/TailBlazer)
 
+[PixiEditor](https://github.com/flabbet/PixiEditor)
+
 ## Electron.NET
 
 [Yodel](https://github.com/BrianAllred/Yodel)
