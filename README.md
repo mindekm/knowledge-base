@@ -9,13 +9,26 @@
 
 [Stephen Cleary](https://blog.stephencleary.com/)
 
+[Nima Ara](http://www.nimaara.com/)
+
+[Vladimir Khorikov](https://enterprisecraftsmanship.com/)
+
 [r/dotnet](https://www.reddit.com/r/dotnet/)
 
 [r/csharp](https://www.reddit.com/r/csharp/)
 
 [r/programming](https://www.reddit.com/r/programming/)
 
+# Podcasts
+[Coding Blocks](https://www.codingblocks.net/category/podcast/)
+
 # Design
+[Designing Data Objects in C# and F#](https://www.dotnetcurry.com/patterns-practices/1429/data-objects-csharp-fsharp)
+
+[23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
+
+[What’s the deal with the SOLID principles?](https://medium.com/@razvan_57516/whats-the-deal-with-the-solid-principles-part-1-cdc4bad5d5b5)
+
 ## Architecture
 [Big Ball of Mud](http://www.laputan.org/mud/)
 
@@ -36,6 +49,8 @@
 [Stop overusing interfaces](https://www.reddit.com/r/programming/comments/6abbb7/stop_overusing_interfaces/dhdf1br/)
 
 [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+
+[Service Locator is an Anti-Pattern](http://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
 
 ### Domain driven design
 
@@ -71,6 +86,9 @@
 
 [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=SUiWfhAhgQw)
 
+## Dynamic
+[https://github.com/manojlds/cmd](https://github.com/manojlds/cmd)
+
 ## Async
 
 [Async/Await - Best Practices in Asynchronous Programming](https://msdn.microsoft.com/en-us/magazine/jj991977.aspx?f=255&MSPPError=-2147217396)
@@ -78,6 +96,10 @@
 [Async and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)
 
 [Tasks are (still) not threads and async is not parallel](https://blogs.msdn.microsoft.com/benwilli/2015/09/10/tasks-are-still-not-threads-and-async-is-not-parallel/)
+
+[C# Async API: The Missing Parts](https://hackernoon.com/c-async-api-the-missing-parts-2229a2b3732?gi=246f7731d41f)
+
+[C# Async Tips & Tricks](https://cpratt.co/async-tips-tricks/)
 
 ## CQRS
 [Exploring CQRS](https://www.hanselman.com/blog/ExploringCQRSWithinTheBrighterNETOpenSourceProject.aspx)
@@ -98,6 +120,8 @@
 [solidservices sample project](https://github.com/dotnetjunkie/solidservices/)
 
 # Projects
+[ReactiveTrader](https://github.com/AdaptiveConsulting/ReactiveTrader)
+
 ## Web
 
 [Contoso University Core](https://github.com/jbogard/ContosoUniversityCore)
@@ -128,6 +152,8 @@
 
 [DddInAction](https://github.com/vkhorikov/DddInAction)
 
+[Tail Blazer](https://github.com/RolandPheasant/TailBlazer)
+
 ## Electron.NET
 
 [Yodel](https://github.com/BrianAllred/Yodel)
@@ -136,6 +162,12 @@
 [MediatR](https://github.com/jbogard/MediatR)
 
 [AutoMapper](https://github.com/AutoMapper/AutoMapper)
+
+[LibLog](https://github.com/damianh/LibLog)
+
+[LinqToExcel](https://github.com/paulyoder/LinqToExcel)
+
+[Glob](https://github.com/kthompson/glob)
 
 ## Functional
 [Monacs](https://github.com/MonacsLib/Monacs)
@@ -153,12 +185,28 @@
 
 ## Serialization
 [YAXLib](https://github.com/sinairv/YAXLib)
+
 [Jil](https://github.com/kevin-montrose/Jil)
+
 [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer)
+
+## Lists
+[Awesome .NET](https://github.com/quozd/awesome-dotnet)
+
+[Awesome LINQ](https://github.com/aloisdg/awesome-linq)
+
+# Testing
+[Testability Kata](https://github.com/ffMathy/testability-kata)
+
+[Intro to Unit Testing C# code with NUnit and Moq](https://www.codementor.io/copperstarconsulting/intro-to-unit-testing-c-code-with-nunit-and-moq-part-1-y2b9iv8iq)
 
 # Frameworks
 ## MVVM
 [Stylet](https://github.com/canton7/Stylet)
+
+[ReactiveUI](https://github.com/reactiveui/reactiveui)
+
+[Redux.NET](https://github.com/GuillaumeSalles/redux.NET)
 
 [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 
@@ -168,6 +216,7 @@
 
 ## Updater
 [Squirrel](https://github.com/Squirrel/Squirrel.Windows)
+
 [Onova](https://github.com/Tyrrrz/Onova)
 
 # Books
@@ -178,7 +227,11 @@
 
 [Proper software requirements](https://hackernoon.com/proper-software-requirements-101-32cf87e02a2f?gi=e154b3e4a703)
 
+[10 Tips for Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/?doing_wp_cron=1545837237.3762528896331787109375)
+
 [Strings Are Evil](https://dev.to/indy_singh_uk/strings-are-evil-9f9)
+
+[Stuff Every .NET App Should be Logging at Startup](http://www.nimaara.com/2017/11/07/stuff-every-dotnet-app-should-be-logging-at-startup/)
 
 ## Reference sources
 [.NET Framework](https://github.com/Microsoft/referencesource)
@@ -192,6 +245,8 @@
 
 ## Tooling
 [Cake](https://cakebuild.net/)
+
+[LINQPad](https://www.linqpad.net/)
 
 [A jumpstart with CAKE](https://medium.com/@reicheltp/a-jumpstart-with-cake-c5d72e7f23f9)
 
