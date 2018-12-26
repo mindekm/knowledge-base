@@ -3,7 +3,7 @@
 
 [Jimmy Bogard](https://jimmybogard.com/)
 
-[Scot Hanselman](https://www.hanselman.com/)
+[Scott Hanselman](https://www.hanselman.com/)
 
 [Mark Seemann](http://blog.ploeh.dk/)
 
@@ -46,6 +46,8 @@
 [Modularization and dependency management: three steps to better code](https://dev.to/ice_lenor/modularization-and-dependency-management-three-steps-to-better-code)
 
 [Understanding SOLID Principles: Dependency Inversion](https://dev.to/theodesp/understanding-solid-principles-dependency-injection)
+
+[Beware of the IDictionary<TKey, TValue>](http://www.nimaara.com/2016/03/06/beware-of-the-idictionary-tkey-tvalue/)
 
 ## Architecture
 [Big Ball of Mud](http://www.laputan.org/mud/)
@@ -156,6 +158,8 @@
 
 [FantasyCritic](https://github.com/SteveF92/FantasyCritic)
 
+[NetCoreMediatrSample](https://github.com/madslundt/NetCoreMediatrSample)
+
 ## Desktop
 
 [Alexey Golub aka Tyrrrz](https://github.com/Tyrrrz?tab=repositories)
@@ -179,6 +183,8 @@
 
 [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 
+[FluentValidation](https://github.com/JeremySkinner/FluentValidation)
+
 [LibLog](https://github.com/damianh/LibLog)
 
 [LinqToExcel](https://github.com/paulyoder/LinqToExcel)
@@ -186,6 +192,24 @@
 [Glob](https://github.com/kthompson/glob)
 
 [Jot](https://github.com/anakic/Jot)
+
+[Polly](https://github.com/App-vNext/Polly)
+
+[Dapper](https://github.com/StackExchange/Dapper)
+
+[AdaptiveClient](https://github.com/leaderanalytics/AdaptiveClient)
+
+[Flurl](https://github.com/tmenier/Flurl)
+
+[UnitsNet](https://github.com/angularsen/UnitsNet)
+
+[Equ](https://github.com/thedmi/Equ)
+
+[Sprache](https://github.com/sprache/Sprache)
+
+[Linq.Extras](https://github.com/thomaslevesque/Linq.Extras)
+
+[MoreLINQ](https://github.com/morelinq/MoreLINQ)
 
 ## Functional
 [Monacs](https://github.com/MonacsLib/Monacs)
