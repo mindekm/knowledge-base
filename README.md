@@ -29,6 +29,24 @@
 
 [What’s the deal with the SOLID principles?](https://medium.com/@razvan_57516/whats-the-deal-with-the-solid-principles-part-1-cdc4bad5d5b5)
 
+[Expressing Intent with Value Objects](https://github.com/ijrussell/blog/blob/master/docs/expressing%20intent%20with%20value%20objects.md)
+
+[SOLID principles using Typescript](https://dev.to/samueleresca/solid-principles-using-typescript)
+
+[How do you choose between an interface and abstract class?](https://dev.to/suhas_chatekar/how-do-you-choose-between-an-interface-and-abstract-class)
+
+[Why composition is superior to inheritance as a way of sharing code](https://dev.to/ruidfigueiredo/why-composition-is-superior-to-inheritance-as-a-way-of-sharing-code)
+
+[Avoid anemic domain models by empowering your objects](https://dev.to/developerscode/avoid-anemic-domain-models-by-empowering-your-objects)
+
+[Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+[What is an abstraction?](https://dev.to/ericnormand/what-is-an-abstraction)
+
+[Modularization and dependency management: three steps to better code](https://dev.to/ice_lenor/modularization-and-dependency-management-three-steps-to-better-code)
+
+[Understanding SOLID Principles: Dependency Inversion](https://dev.to/theodesp/understanding-solid-principles-dependency-injection)
+
 ## Architecture
 [Big Ball of Mud](http://www.laputan.org/mud/)
 
@@ -66,8 +84,6 @@
 
 [Value object](https://martinfowler.com/bliki/ValueObject.html)
 
-
-
 ### Clean Architecture
 [Clean Architecture with ASP.NET Core 2.1](https://www.youtube.com/watch?v=_lwCVE_XgqI)
 
@@ -90,7 +106,6 @@
 [https://github.com/manojlds/cmd](https://github.com/manojlds/cmd)
 
 ## Async
-
 [Async/Await - Best Practices in Asynchronous Programming](https://msdn.microsoft.com/en-us/magazine/jj991977.aspx?f=255&MSPPError=-2147217396)
 
 [Async and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)
@@ -123,7 +138,6 @@
 [ReactiveTrader](https://github.com/AdaptiveConsulting/ReactiveTrader)
 
 ## Web
-
 [Contoso University Core](https://github.com/jbogard/ContosoUniversityCore)
 
 [Contoso University Core + Razor](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
@@ -169,6 +183,8 @@
 
 [Glob](https://github.com/kthompson/glob)
 
+[Jot](https://github.com/anakic/Jot)
+
 ## Functional
 [Monacs](https://github.com/MonacsLib/Monacs)
 
@@ -199,6 +215,14 @@
 [Testability Kata](https://github.com/ffMathy/testability-kata)
 
 [Intro to Unit Testing C# code with NUnit and Moq](https://www.codementor.io/copperstarconsulting/intro-to-unit-testing-c-code-with-nunit-and-moq-part-1-y2b9iv8iq)
+
+[Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
+
+[Test Doubles - Fakes, Mocks and Stubs](https://dev.to/milipski/test-doubles---fakes-mocks-and-stubs)
+
+[What exactly is a "unit" in unit testing?](https://dev.to/ruidfigueiredo/what-exactly-is-a-unit-in-unit-testing)
+
+[Testing or Monitoring? MTBF or MTTR? Make your choice!](https://dev.to/danlebrero/testing-or-monitoring-mtbf-or-mttr-make-your-choice)
 
 # Frameworks
 ## MVVM
@@ -232,6 +256,56 @@
 [Strings Are Evil](https://dev.to/indy_singh_uk/strings-are-evil-9f9)
 
 [Stuff Every .NET App Should be Logging at Startup](http://www.nimaara.com/2017/11/07/stuff-every-dotnet-app-should-be-logging-at-startup/)
+
+[12 Reasons To Avoid Individual Code Ownership](https://dev.to/lpasqualis/12-reasons-to-avoid-individual-code-ownership)
+
+[How Bad Software Gets Made](https://dev.to/yelluw/how-bad-software-gets-made)
+
+[A Mess is not a Technical Debt](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt)
+
+[C# Style Guide](https://github.com/MakingSense/code-style-guides/blob/master/CSharp/README.md)
+
+[35 habits that make you write bad code](https://www.codementor.io/christianmaioli/35-habits-that-make-you-write-bad-code-8ks62091v)
+
+[Technical Debt: Definition and Practical Approach](https://dev.mikamai.com/2017/06/15/technical-debt-definition-and-practical-approach/)
+
+[How to Set the Technical Direction for Your Team](https://dev.to/jlhcoder/how-to-set-the-technical-direction-for-your-team)
+
+[9 Anti-Patterns Every Programmer Should Be Aware Of](https://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+
+[How We Make Decisions](https://dev.to/marina_pilip/how-we-make-decisions-4920)
+
+[10 Principles of a Good Code Review](https://dev.to/codemouse92/10-principles-of-a-good-code-review-2eg)
+
+[9 Software Engineering Career Mistakes To Avoid At All Costs](https://dev.to/lpasqualis/9-software-engineering-career-mistakes-to-avoid-at-all-costs-30m)
+
+[Big-O Explained](https://dev.to/imjacobclark/big-o-explained)
+
+[The Software Product “Issue Cycle” Phenomenon](https://dev.to/lpasqualis/the-software-product-issue-cycle-phenomenon-dnp)
+
+[Perfect vs Good Enough](https://dev.to/grahamcox82/perfect-vs-good-enough)
+
+[Hacky and Clean Programming](https://dev.to/danielkun/hacky-and-clean-programming)
+
+[Software Complexity vs. Complex Software](https://dev.to/ravneetg/software-complexity-vs-complex-software)
+
+[The Regex: A Practical Introduction to Regular Expressions](https://dev.to/hawkinjs/dont-fear-the-regex-a-practical-introduction-to-regular-expressions)
+
+[Importance of Writing Clean Code](https://dev.to/mohitrajput987/importance-of-writing-clean-code)
+
+[Yes! You can plan your projects!](https://dev.to/mistermocha/yes-you-can-plan-your-projects)
+
+[Giving and Receiving Great Code Reviews](https://dev.to/samjarman/giving-and-receiving-great-code-reviews)
+
+[Crafting Better Code Reviews](https://dev.to/vaidehijoshi/crafting-better-code-reviews)
+
+[Bad Habits We Learn in School](https://dev.to/jlhcoder/bad-habits-we-learn-in-school)
+
+[Plan All of the Things!](https://dev.to/jlhcoder/plan-all-of-the-things)
+
+[The Single Most Important Driver Of Software Quality](https://dev.to/iamlucasmreis/the-single-most-important-driver-of-software-quality)
+
+[Lessons learned about Bus Factor](https://dev.to/einenlum/lessons-learned-about-bus-factor-15-introduction-dl0)
 
 ## Reference sources
 [.NET Framework](https://github.com/Microsoft/referencesource)
