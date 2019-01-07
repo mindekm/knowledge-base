@@ -83,6 +83,12 @@
 * [Meanwhile... on the query side of my architecture](https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=92)
 * [solidservices sample project](https://github.com/dotnetjunkie/solidservices/)
 
+## Configuration
+* [How We Do Strong Typed Configuration](https://jeremydmiller.com/2014/11/07/strong_typed_configuration/)
+* [Strongly Typed Configuration Settings in ASP.NET Core](https://weblog.west-wind.com/posts/2016/May/23/Strongly-Typed-Configuration-Settings-in-ASPNET-Core)
+* [Easy Configuration Binding in ASP.NET Core - revisited](https://weblog.west-wind.com/posts/2017/Dec/12/Easy-Configuration-Binding-in-ASPNET-Core-revisited)
+* [Strongly typed configuration in ASP.NET Core without IOptions<T>](https://www.strathweb.com/2016/09/strongly-typed-configuration-in-asp-net-core-without-ioptionst/)
+
 # Projects
 * [ReactiveTrader](https://github.com/AdaptiveConsulting/ReactiveTrader)
 
