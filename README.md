@@ -6,15 +6,17 @@
 * [Stephen Cleary](https://blog.stephencleary.com/)
 * [Nima Ara](http://www.nimaara.com/)
 * [Vladimir Khorikov](https://enterprisecraftsmanship.com/)
-* [r/dotnet](https://www.reddit.com/r/dotnet/)
-* [r/csharp](https://www.reddit.com/r/csharp/)
-* [r/programming](https://www.reddit.com/r/programming/)
+* Reddit
+  * [r/dotnet](https://www.reddit.com/r/dotnet/)
+  * [r/csharp](https://www.reddit.com/r/csharp/)
+  * [r/programming](https://www.reddit.com/r/programming/)
 
 # Podcasts
 * [Coding Blocks](https://www.codingblocks.net/category/podcast/)
 
 # Design
 * [Designing Data Objects in C# and F#](https://www.dotnetcurry.com/patterns-practices/1429/data-objects-csharp-fsharp)
+* [Data and Encapsulation in complex C# applications](https://www.dotnetcurry.com/patterns-practices/1367/data-encapsulation-large-csharp-applications)
 * [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
 * [What’s the deal with the SOLID principles?](https://medium.com/@razvan_57516/whats-the-deal-with-the-solid-principles-part-1-cdc4bad5d5b5)
 * [Expressing Intent with Value Objects](https://github.com/ijrussell/blog/blob/master/docs/expressing%20intent%20with%20value%20objects.md)
@@ -63,6 +65,10 @@
 
 ## Dynamic
 * [https://github.com/manojlds/cmd](https://github.com/manojlds/cmd)
+
+## Generic instantiation
+* [https://www.reddit.com/r/csharp/comments/9op3s3/the_new_parameter_constraint/](https://www.reddit.com/r/csharp/comments/9op3s3/the_new_parameter_constraint/)
+* [https://www.reddit.com/r/csharp/comments/9oo0j4/how_to_create_an_object_with_argument_in_c/](https://www.reddit.com/r/csharp/comments/9oo0j4/how_to_create_an_object_with_argument_in_c/)
 
 ## Async
 * [Async/Await - Best Practices in Asynchronous Programming](https://msdn.microsoft.com/en-us/magazine/jj991977.aspx?f=255&MSPPError=-2147217396)
@@ -119,8 +125,6 @@
 * [MediatR](https://github.com/jbogard/MediatR)
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation)
-* [LibLog](https://github.com/damianh/LibLog)
-* [LinqToExcel](https://github.com/paulyoder/LinqToExcel)
 * [Glob](https://github.com/kthompson/glob)
 * [Jot](https://github.com/anakic/Jot)
 * [Polly](https://github.com/App-vNext/Polly)
@@ -132,25 +136,28 @@
 * [Sprache](https://github.com/sprache/Sprache)
 * [Linq.Extras](https://github.com/thomaslevesque/Linq.Extras)
 * [MoreLINQ](https://github.com/morelinq/MoreLINQ)
-
-## Functional
-* [Monacs](https://github.com/MonacsLib/Monacs)
-
-## REST
-* [Refit](https://github.com/reactiveui/refit)
-* [RestEase](https://github.com/canton7/RestEase)
-* [RestLess](https://github.com/letsar/RestLess)
-* [RestSharp](https://github.com/restsharp/RestSharp)
-* [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)
-
-## Serialization
-* [YAXLib](https://github.com/sinairv/YAXLib)
-* [Jil](https://github.com/kevin-montrose/Jil)
-* [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer)
-
-## Lists
-* [Awesome .NET](https://github.com/quozd/awesome-dotnet)
-* [Awesome LINQ](https://github.com/aloisdg/awesome-linq)
+* Logging
+  * [NLog](https://github.com/NLog/NLog)
+  * [LibLog](https://github.com/damianh/LibLog)
+* Testing
+  * [NUnit](https://github.com/nunit/nunit)
+  * [Moq](https://github.com/moq/moq4)
+  * [Shouldly](https://github.com/shouldly/shouldly)
+* Functional
+  * [Monacs](https://github.com/MonacsLib/Monacs)
+* REST client
+  * [Refit](https://github.com/reactiveui/refit)
+  * [RestEase](https://github.com/canton7/RestEase)
+  * [RestLess](https://github.com/letsar/RestLess)
+  * [RestSharp](https://github.com/restsharp/RestSharp)
+  * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)
+* Serialization
+  * [YAXLib](https://github.com/sinairv/YAXLib)
+  * [Jil](https://github.com/kevin-montrose/Jil)
+  * [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer)
+* Office
+  * [EPPlus](https://github.com/JanKallman/EPPlus)
+  * [LinqToExcel](https://github.com/paulyoder/LinqToExcel)
 
 # Testing
 * [Testability Kata](https://github.com/ffMathy/testability-kata)
@@ -175,6 +182,7 @@
 
 # Books
 * [Dependency Injection Principles, Practices, and Patterns](https://www.manning.com/books/dependency-injection-principles-practices-patterns)
+* [Framework Design Guidelines](https://www.microsoft.com/en-us/p/framework-design-guidelines/fgqpf3h0qjqc)
 
 # Other
 * [How to Deal with Difficult People on Software Projects](https://people.neilon.software/)
@@ -212,16 +220,18 @@
 * [.NET Framework](https://github.com/Microsoft/referencesource)
 * [.NET Core](https://github.com/dotnet/corefx)
 
-## Generic instantiation
-* [https://www.reddit.com/r/csharp/comments/9op3s3/the_new_parameter_constraint/](https://www.reddit.com/r/csharp/comments/9op3s3/the_new_parameter_constraint/)
-* [https://www.reddit.com/r/csharp/comments/9oo0j4/how_to_create_an_object_with_argument_in_c/](https://www.reddit.com/r/csharp/comments/9oo0j4/how_to_create_an_object_with_argument_in_c/)
+## Lists
+* [Awesome .NET](https://github.com/quozd/awesome-dotnet)
+* [Awesome LINQ](https://github.com/aloisdg/awesome-linq)
 
 ## Tooling
 * [Cake](https://cakebuild.net/)
+  * [A jumpstart with CAKE](https://medium.com/@reicheltp/a-jumpstart-with-cake-c5d72e7f23f9)
+  * [Cake script example](https://github.com/OmniSharp/omnisharp-roslyn/blob/master/build.cake)
 * [LINQPad](https://www.linqpad.net/)
-* [A jumpstart with CAKE](https://medium.com/@reicheltp/a-jumpstart-with-cake-c5d72e7f23f9)
-* [Cake script example](https://github.com/OmniSharp/omnisharp-roslyn/blob/master/build.cake)
 
 ## Enterprise Architect
+* [Enterprise Architect Object Model](https://sparxsystems.com.au/resources/user-guides/automation/enterprise-architect-object-model.pdf)
+* [Enterprise Architect Add-In Model](https://sparxsystems.com/resources/user-guides/automation/enterprise-architect-add-in-model.pdf)
 * [EnterpriseArchitect_hoTools](https://github.com/Helmut-Ortmann/EnterpriseArchitect_hoTools)
 * [PlusprofilAddin](https://github.com/SebastianEsp/PlusprofilAddin-WPF-)
