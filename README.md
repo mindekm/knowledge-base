@@ -82,6 +82,9 @@
 * [Opinionated ContosoUniversity](https://www.hanselman.com/blog/ExampleCodeOpinionatedContosoUniversityOnASPNETCore20sRazorPages.aspx)
 * [cqrs.nu](http://www.cqrs.nu/)
 * [Event Sourcing in Production - Real-Time CQRS/DDD .NET Apps with EventStore](https://www.youtube.com/watch?v=t2AI9hODJ2E)
+* [Cutting Edge - CQRS for the Common Application](https://msdn.microsoft.com/en-us/magazine/mt147237.aspx)
+* [Thin Controllers with CQRS and MediatR](https://codeopinion.com/thin-controllers-cqrs-mediatr/)
+* [CQRS Workshop – Retrospective](https://lostechies.com/gabrielschenker/2015/04/25/cqrs-workshop-retrospective/)
 
 ## WCF
 * [Writing Highly Maintainable WCF Services](https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=95)
@@ -134,8 +137,9 @@
 * [UnitsNet](https://github.com/angularsen/UnitsNet)
 * [Equ](https://github.com/thedmi/Equ)
 * [Sprache](https://github.com/sprache/Sprache)
-* [Linq.Extras](https://github.com/thomaslevesque/Linq.Extras)
-* [MoreLINQ](https://github.com/morelinq/MoreLINQ)
+* Linq
+  * [Linq.Extras](https://github.com/thomaslevesque/Linq.Extras)
+  * [MoreLINQ](https://github.com/morelinq/MoreLINQ)
 * Logging
   * [NLog](https://github.com/NLog/NLog)
   * [LibLog](https://github.com/damianh/LibLog)
@@ -146,6 +150,7 @@
 * Functional
   * [Monacs](https://github.com/MonacsLib/Monacs)
 * REST client
+  * [Flurl](https://github.com/tmenier/Flurl)
   * [Refit](https://github.com/reactiveui/refit)
   * [RestEase](https://github.com/canton7/RestEase)
   * [RestLess](https://github.com/letsar/RestLess)
