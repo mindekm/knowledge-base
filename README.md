@@ -188,6 +188,7 @@
 # Books
 * [Dependency Injection Principles, Practices, and Patterns](https://www.manning.com/books/dependency-injection-principles-practices-patterns)
 * [Framework Design Guidelines](https://www.microsoft.com/en-us/p/framework-design-guidelines/fgqpf3h0qjqc)
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 # Other
 * [How to Deal with Difficult People on Software Projects](https://people.neilon.software/)
