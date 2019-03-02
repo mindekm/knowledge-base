@@ -76,6 +76,8 @@
 * [Tasks are (still) not threads and async is not parallel](https://blogs.msdn.microsoft.com/benwilli/2015/09/10/tasks-are-still-not-threads-and-async-is-not-parallel/)
 * [C# Async API: The Missing Parts](https://hackernoon.com/c-async-api-the-missing-parts-2229a2b3732?gi=246f7731d41f)
 * [C# Async Tips & Tricks](https://cpratt.co/async-tips-tricks/)
+* [AsyncGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+* [Should I await a Task with .ConfigureAwait(false)?](https://github.com/Microsoft/vs-threading/blob/master/doc/cookbook_vs.md#should-i-await-a-task-with-configureawaitfalse)
 
 ## CQRS
 * [Exploring CQRS](https://www.hanselman.com/blog/ExploringCQRSWithinTheBrighterNETOpenSourceProject.aspx)
