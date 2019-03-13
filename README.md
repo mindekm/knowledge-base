@@ -78,6 +78,7 @@
 * [C# Async Tips & Tricks](https://cpratt.co/async-tips-tricks/)
 * [AsyncGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 * [Should I await a Task with .ConfigureAwait(false)?](https://github.com/Microsoft/vs-threading/blob/master/doc/cookbook_vs.md#should-i-await-a-task-with-configureawaitfalse)
+* [Eliding Async and Await](http://blog.stephencleary.com/2016/12/eliding-async-await.html)
 
 ## CQRS
 * [Exploring CQRS](https://www.hanselman.com/blog/ExploringCQRSWithinTheBrighterNETOpenSourceProject.aspx)
