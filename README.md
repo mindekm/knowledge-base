@@ -29,6 +29,7 @@
 * [Modularization and dependency management: three steps to better code](https://dev.to/ice_lenor/modularization-and-dependency-management-three-steps-to-better-code)
 * [Understanding SOLID Principles: Dependency Inversion](https://dev.to/theodesp/understanding-solid-principles-dependency-injection)
 * [Beware of the IDictionary<TKey, TValue>](http://www.nimaara.com/2016/03/06/beware-of-the-idictionary-tkey-tvalue/)
+* [Repository Pattern – for the REST API](http://bryanavery.co.uk/repository-pattern-for-the-rest-api/)
 
 ## Architecture
 * [Big Ball of Mud](http://www.laputan.org/mud/)
@@ -183,6 +184,9 @@
 * [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 * [Ookii Dialogs](https://github.com/caioproiete/ookii-dialogs-wpf)
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)
+* [Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678)
+* [Enterprise Integration Patterns](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+* [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 
 ## Updater
 * [Squirrel](https://github.com/Squirrel/Squirrel.Windows)
