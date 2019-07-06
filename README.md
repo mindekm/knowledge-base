@@ -124,6 +124,8 @@
 * [DddInAction](https://github.com/vkhorikov/DddInAction)
 * [Tail Blazer](https://github.com/RolandPheasant/TailBlazer)
 * [PixiEditor](https://github.com/flabbet/PixiEditor)
+* [Notepads](https://github.com/JasonStein/Notepads)
+* [InventorySample](https://github.com/microsoft/InventorySample)
 
 ## Electron.NET
 * [Yodel](https://github.com/BrianAllred/Yodel)
