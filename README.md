@@ -30,6 +30,8 @@
 * [Understanding SOLID Principles: Dependency Inversion](https://dev.to/theodesp/understanding-solid-principles-dependency-injection)
 * [Beware of the IDictionary<TKey, TValue>](http://www.nimaara.com/2016/03/06/beware-of-the-idictionary-tkey-tvalue/)
 * [Repository Pattern – for the REST API](http://bryanavery.co.uk/repository-pattern-for-the-rest-api/)
+* [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [Designing with types](https://fsharpforfunandprofit.com/series/designing-with-types.html)
 
 ## Architecture
 * [Big Ball of Mud](http://www.laputan.org/mud/)
