@@ -32,6 +32,8 @@
 * [Repository Pattern – for the REST API](http://bryanavery.co.uk/repository-pattern-for-the-rest-api/)
 * [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [Designing with types](https://fsharpforfunandprofit.com/series/designing-with-types.html)
+* [Pipeline Pattern Implementations in C# .NET](https://michaelscodingspot.com/pipeline-pattern-implementations-csharp/)
+* [StringBuilder performance pitfalls](https://www.meziantou.net/stringbuilder-performance-pitfalls.htm)
 
 ## Architecture
 * [Big Ball of Mud](http://www.laputan.org/mud/)
@@ -82,6 +84,15 @@
 * [AsyncGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 * [Should I await a Task with .ConfigureAwait(false)?](https://github.com/Microsoft/vs-threading/blob/master/doc/cookbook_vs.md#should-i-await-a-task-with-configureawaitfalse)
 * [Eliding Async and Await](http://blog.stephencleary.com/2016/12/eliding-async-await.html)
+* [ConfigureAwait FAQ](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+* [TaskMonitor](https://www.sharpnado.com/task-monitor/)
+* [AsyncEx](https://github.com/StephenCleary/AsyncEx)
+* [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices)
+
+## System.Threading.Channels
+* [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
+* [An Introduction to System.Threading.Channels](https://www.stevejgordon.co.uk/an-introduction-to-system-threading-channels)
+* [Open.ChannelExtensions](https://github.com/electricessence/Open.ChannelExtensions)
 
 ## CQRS
 * [Exploring CQRS](https://www.hanselman.com/blog/ExploringCQRSWithinTheBrighterNETOpenSourceProject.aspx)
@@ -103,6 +114,14 @@
 * [Strongly Typed Configuration Settings in ASP.NET Core](https://weblog.west-wind.com/posts/2016/May/23/Strongly-Typed-Configuration-Settings-in-ASPNET-Core)
 * [Easy Configuration Binding in ASP.NET Core - revisited](https://weblog.west-wind.com/posts/2017/Dec/12/Easy-Configuration-Binding-in-ASPNET-Core-revisited)
 * [Strongly typed configuration in ASP.NET Core without IOptions<T>](https://www.strathweb.com/2016/09/strongly-typed-configuration-in-asp-net-core-without-ioptionst/)
+
+## Functional programming
+* [Monads explained in C# (again)](https://mikhail.io/2018/07/monads-explained-in-csharp-again/)
+
+## Reflection
+* [Making reflection fly and exploring delegates](https://codeblog.jonskeet.uk/2008/08/09/making-reflection-fly-and-exploring-delegates/)
+* [Why is reflection slow?](https://mattwarren.org/2016/12/14/Why-is-Reflection-slow/)
+* [ProtoClientExtensions.cs](https://github.com/protobuf-net/protobuf-net/blob/4b239629f5f9dbe4770a497f2c81465ab0669504/assorted/protobuf-net.Extensions/ServiceModel/Client/ProtoClientExtensions.cs)
 
 # Projects
 * [ReactiveTrader](https://github.com/AdaptiveConsulting/ReactiveTrader)
