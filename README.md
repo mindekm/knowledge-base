@@ -88,6 +88,7 @@
 * [TaskMonitor](https://www.sharpnado.com/task-monitor/)
 * [AsyncEx](https://github.com/StephenCleary/AsyncEx)
 * [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices)
+* [Concurrency vs. Parallel vs. Async in .NET](https://dev.to/scotthannen/concurrency-vs-parallel-vs-async-in-net-3812)
 
 ## System.Threading.Channels
 * [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
@@ -117,11 +118,15 @@
 
 ## Functional programming
 * [Monads explained in C# (again)](https://mikhail.io/2018/07/monads-explained-in-csharp-again/)
+* [Discriminated Unions in C# — An Unexceptional Love Story](https://medium.com/kabbage-engineering/discriminated-unions-in-c-an-unexceptional-love-story-82abb7f260c2)
 
 ## Reflection
 * [Making reflection fly and exploring delegates](https://codeblog.jonskeet.uk/2008/08/09/making-reflection-fly-and-exploring-delegates/)
 * [Why is reflection slow?](https://mattwarren.org/2016/12/14/Why-is-Reflection-slow/)
 * [ProtoClientExtensions.cs](https://github.com/protobuf-net/protobuf-net/blob/4b239629f5f9dbe4770a497f2c81465ab0669504/assorted/protobuf-net.Extensions/ServiceModel/Client/ProtoClientExtensions.cs)
+
+## C# Channels
+* [C# Channels - Publish / Subscribe Workflows](https://deniskyashif.com/2019/12/08/csharp-channels-part-1/)
 
 # Projects
 * [ReactiveTrader](https://github.com/AdaptiveConsulting/ReactiveTrader)
@@ -160,36 +165,24 @@
 * [Polly](https://github.com/App-vNext/Polly)
 * [Dapper](https://github.com/StackExchange/Dapper)
 * [AdaptiveClient](https://github.com/leaderanalytics/AdaptiveClient)
-* [Flurl](https://github.com/tmenier/Flurl)
 * [UnitsNet](https://github.com/angularsen/UnitsNet)
 * [Equ](https://github.com/thedmi/Equ)
 * [Sprache](https://github.com/sprache/Sprache)
+* [ProcessX](https://github.com/Cysharp/ProcessX)
 * Linq
   * [Linq.Extras](https://github.com/thomaslevesque/Linq.Extras)
   * [MoreLINQ](https://github.com/morelinq/MoreLINQ)
 * Logging
-  * [NLog](https://github.com/NLog/NLog)
   * [LibLog](https://github.com/damianh/LibLog)
 * Testing
   * [NUnit](https://github.com/nunit/nunit)
   * [Moq](https://github.com/moq/moq4)
   * [Shouldly](https://github.com/shouldly/shouldly)
-* Functional
-  * [Monacs](https://github.com/MonacsLib/Monacs)
 * REST client
   * [Flurl](https://github.com/tmenier/Flurl)
-  * [Refit](https://github.com/reactiveui/refit)
-  * [RestEase](https://github.com/canton7/RestEase)
-  * [RestLess](https://github.com/letsar/RestLess)
-  * [RestSharp](https://github.com/restsharp/RestSharp)
   * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)
-* Serialization
-  * [YAXLib](https://github.com/sinairv/YAXLib)
-  * [Jil](https://github.com/kevin-montrose/Jil)
-  * [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer)
 * Office
   * [EPPlus](https://github.com/JanKallman/EPPlus)
-  * [LinqToExcel](https://github.com/paulyoder/LinqToExcel)
 
 # Testing
 * [Testability Kata](https://github.com/ffMathy/testability-kata)
@@ -199,26 +192,19 @@
 * [What exactly is a "unit" in unit testing?](https://dev.to/ruidfigueiredo/what-exactly-is-a-unit-in-unit-testing)
 * [Testing or Monitoring? MTBF or MTTR? Make your choice!](https://dev.to/danlebrero/testing-or-monitoring-mtbf-or-mttr-make-your-choice)
 
-# Frameworks
-## MVVM
+# MVVM
 * [Stylet](https://github.com/canton7/Stylet)
-* [ReactiveUI](https://github.com/reactiveui/reactiveui)
-* [Redux.NET](https://github.com/GuillaumeSalles/redux.NET)
 * [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 * [Ookii Dialogs](https://github.com/caioproiete/ookii-dialogs-wpf)
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)
-* [Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678)
-* [Enterprise Integration Patterns](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
-* [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
-
-## Updater
-* [Squirrel](https://github.com/Squirrel/Squirrel.Windows)
-* [Onova](https://github.com/Tyrrrz/Onova)
 
 # Books
 * [Dependency Injection Principles, Practices, and Patterns](https://www.manning.com/books/dependency-injection-principles-practices-patterns)
 * [Framework Design Guidelines](https://www.microsoft.com/en-us/p/framework-design-guidelines/fgqpf3h0qjqc)
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+* [Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678)
+* [Enterprise Integration Patterns](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+* [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 
 # Other
 * [How to Deal with Difficult People on Software Projects](https://people.neilon.software/)
@@ -259,12 +245,14 @@
 ## Lists
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 * [Awesome LINQ](https://github.com/aloisdg/awesome-linq)
+* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
 
 ## Tooling
 * [Cake](https://cakebuild.net/)
   * [A jumpstart with CAKE](https://medium.com/@reicheltp/a-jumpstart-with-cake-c5d72e7f23f9)
   * [Cake script example](https://github.com/OmniSharp/omnisharp-roslyn/blob/master/build.cake)
 * [LINQPad](https://www.linqpad.net/)
+* [SQL query builder](https://github.com/sqlkata/querybuilder)
 
 ## Enterprise Architect
 * [Enterprise Architect Object Model](https://sparxsystems.com.au/resources/user-guides/automation/enterprise-architect-object-model.pdf)
