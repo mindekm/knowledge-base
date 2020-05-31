@@ -34,6 +34,8 @@
 * [Designing with types](https://fsharpforfunandprofit.com/series/designing-with-types.html)
 * [Pipeline Pattern Implementations in C# .NET](https://michaelscodingspot.com/pipeline-pattern-implementations-csharp/)
 * [StringBuilder performance pitfalls](https://www.meziantou.net/stringbuilder-performance-pitfalls.htm)
+* [Clash of Styles, Part #1 – Operations Matrix via OOP](https://vkontech.com/clash-of-styles-part-1-operations-matrix-via-oop/)
+* [Clash of Styles, Part #2 – Operations Matrix via FP](https://vkontech.com/clash-of-styles-part-2-operations-matrix-via-fp/)
 
 ## Architecture
 * [Big Ball of Mud](http://www.laputan.org/mud/)
